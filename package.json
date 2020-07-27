@@ -1,0 +1,22 @@
+{
+  "name": "mern-social",
+  "version": "1.0.0",
+  "description": "This project for social user to chat with each other",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qodirovshohijahon/mern-social.git"
+  },
+  "keywords": [
+    "MERN"
+  ],
+  "author": "qodirovshohijahon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qodirovshohijahon/mern-social/issues"
+  },
+  "homepage": "https://github.com/qodirovshohijahon/mern-social#readme"
+}
